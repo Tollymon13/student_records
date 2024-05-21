@@ -93,10 +93,3 @@ The switch contained the following cases:
 - Case 5, I just called the create_file_user function.
 
 At the end of function, there is an if statement, that will print a goodbye message if one introduces the number six or higher.
-
-### print menu
-It just prints indications for the user and presents all options the program can offer.
-
-### int main
-
-I printed 2 welcoming messages and called the user function.
